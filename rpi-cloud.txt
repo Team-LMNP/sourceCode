@@ -1,0 +1,19 @@
+mysql table1 replicate  ------->PHP/MYSQL protocol             210.2.10.5 table1 (laptop/rpi)  -- PHP(display)
+(rpi vending machine)
+raspbian							win10/xamp
+
+settings
+210.2.10.5
+
+
+references: 
+https://pimylifeup.com/raspberry-pi-owncloud/
+https://eltechs.com/owncloud-on-raspberry-pi/
+https://dev.mysql.com/doc/refman/8.0/en/replication-howto.html
+
+
+
+mvpgo2018-lmnp
+
+makeaprogram4490@gmail.com
+12345678
